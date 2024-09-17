@@ -135,6 +135,10 @@ PrefabInstance:
       value: Broomstick
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 11bbfdb1ccedf0b48a8a39d6b1f410e9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 11bbfdb1ccedf0b48a8a39d6b1f410e9, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -20236,7 +20240,7 @@ GameObject:
   - component: {fileID: 813162116}
   - component: {fileID: 813162119}
   - component: {fileID: 813162120}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: XR Origin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30742,7 +30746,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1065097452}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AttachTransform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
